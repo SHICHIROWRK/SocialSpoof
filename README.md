@@ -1,5 +1,5 @@
-# SocialSpoof
-test
+# SocialSpoof - Как сбросить ваш Social Club для аккаунта GTA 5 RP
+                                        
 DS
 
 
